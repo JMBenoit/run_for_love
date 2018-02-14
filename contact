@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-114118464-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'UA-114118464-1');
+    </script>
+
+    <title>Contact - Run For Love</title>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+    <!-- Font Awesome -->
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+  <body class="contact">
+
+    <!-- Nav Bar -->
+    <nav class="nav-bar">
+      <div id="logo"><a href="./"><img src="img/run_for_love_logo_white.png" alt="Run For Love Logo"></a></div>
+      <p>Run For Love 5K</p>
+      <ul id="menu">
+        <li><a href="./">Home</a></li>
+        <li><a href="registration">Registration</a></li>
+        <li><a href="supporters">Supporters</a></li>
+        <li><a href="contact">Contact</a></li>
+      </ul>
+      <!-- Mobile Icons -->
+      <i id="bars" class="fa fa-bars fa-3x" aria-hidden="true"></i>
+      <i id="close" class="fa fa-times fa-3x" aria-hidden="true"></i>
+    </nav>
+
+    <!-- Body -->
+    <div id="header">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-1">
+
+          </div>
+          <div class="col-md-10">
+            <h2>Contact</h2>
+            <div id="text">
+              <p>Use the form below to send us an email and we will get back to you within 24-48 hours.</p>
+            </div>
+            <div id="form">
+              <form method="post" action="php/process.php">
+                <p>
+                  <input id="name" type="text" name="name" placeholder="Name" required>
+                </p>
+                <p>
+                  <input id="email" type="email" name="email" placeholder="Email" required>
+                </p>
+                <p>
+                  <input id="subject" type="text" name="subject" placeholder="Subject" required>
+                </p>
+                <p>
+                  <textarea id="message" name="message" cols="30" rows="10" placeholder="Message" required></textarea>
+                </p>
+                <p>
+                  <input id="submit" type="submit" name="submit" value="Send Message">
+                </p>
+              </form>
+            </div>
+          </div>
+          <div class="col-md-1">
+
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Footer -->
+    <div class="footer">
+      <div class="container">
+          <div class="row">
+            <div class="col-md-3">
+              <h6>Menu</h6>
+              <ul id="menu">
+                <li><a href="./">Home</a></li>
+                <li><a href="registration">Registration</a></li>
+                <li><a href="supporters">Supporters</a></li>
+                <li><a href="contact">Contact</a></li>
+              </ul>
+            </div>
+            <div class="col-md-3">
+              <h6>Social</h6>
+              <a href="https://www.facebook.com/events/315930732232063/?active_tab=about" target="_blank"><i class="fa fa-facebook-square fa-3x" aria-hidden="true"></i></a>
+            </div>
+            <div class="col-md-3">
+
+            </div>
+            <div class="col-md-3">
+              <p><i class="fa fa-copyright" aria-hidden="true"></i> Run For Love 2018</p>
+              <p>Website created by Justin Benoit</p>
+            </div>
+          </div>
+      </div>
+    </div>
+
+    <!-- jQuery first, then Tether, then Bootstrap JS. -->
+    <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+    <script src="js/app.js"></script>
+  </body>
+</html>

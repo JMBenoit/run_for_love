@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-114118464-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'UA-114118464-1');
+    </script>
+
+    <title>Registration - Run For Love</title>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+    <!-- Font Awesome -->
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+  <body class="registration">
+
+    <!-- Nav Bar -->
+    <nav class="nav-bar">
+      <div id="logo"><a href="./"><img src="img/run_for_love_logo_white.png" alt="Run For Love Logo"></a></div>
+      <p>Run For Love 5K</p>
+      <ul id="menu">
+        <li><a href="./">Home</a></li>
+        <li><a href="registration">Registration</a></li>
+        <li><a href="supporters">Supporters</a></li>
+        <li><a href="contact">Contact</a></li>
+      </ul>
+      <!-- Mobile Icons -->
+      <i id="bars" class="fa fa-bars fa-3x" aria-hidden="true"></i>
+      <i id="close" class="fa fa-times fa-3x" aria-hidden="true"></i>
+    </nav>
+
+    <!-- Body -->
+    <div id="header">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-1">
+
+          </div>
+          <div class="col-md-10">
+            <h2>Registration</h2>
+            <div id="text">
+              <p>Thank you for your interest in registering for the Run For Love 5K. This event is something very dear to our hearts, and so we appreciate all of your support.</p>
+              <p>You can use the button below to buy your ticket through PayPal. All tickets bought online come with 1 raffle ticket and a t-shirt, which you will receive on the day of the event. Be sure to select your shirt size and include the name of the team you would like to join or create.</p>
+              <p>The last day to purchase tickets online will be May 26, 2018. Tickets will also be available at the event. We plan to have some extra shirts available at that time, however, there is no guarentee that your size will be available. </p>
+              <p>The event will be held rain or shine. No refunds.</p>
+              <p>Dogs are welcome!</p>
+              <br/>
+              <p>The schedule of events for the day is as follows:</p>
+              <p>8am: Registration</p>
+              <p>9am: Opening Ceremony</p>
+              <p>10am: Race</p>
+              <p>12pm: Lunch</p>
+              <p>1pm: Closing Ceremony</p>
+              <!-- Paypal Button -->
+              <div id="buyButton">
+                <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+                  <input type="hidden" name="cmd" value="_s-xclick">
+                  <input type="hidden" name="hosted_button_id" value="D9WE46RLS6FZU">
+                  <table>
+                    <tr><td><input type="hidden" name="on0" value="Shirt Size">Shirt Size</td></tr><tr><td><select name="os0">
+	                     <option value="S">S </option>
+	                     <option value="M">M </option>
+	                     <option value="L">L </option>
+	                     <option value="XL">XL </option>
+                       <option value="XXL">XXL </option>
+                      </select> </td></tr>
+                    <tr><td><input type="hidden" name="on1" value="Team Name">Team Name</td></tr><tr><td><input type="text" name="os1" maxlength="200"></td></tr>
+                  </table>
+                  <input id="buy" type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                  <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+                </form>
+              </div>
+
+            </div>
+          </div>
+          <div class="col-md-1">
+
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div id="teams">
+      <h2>Registered teams</h2>
+      <p>Please allow 24-48 hours after registering for your name to appear in the list below.</p>
+      <div class="container">
+          <div class="row">
+            <div class="col-md-3">
+              <table style="width: 100%">
+                <tr>
+                  <th>Team Scott Benoit</th>
+                </tr>
+                <tr>
+                  <td>Jessica Benoit</td>
+                </tr>
+                <tr>
+                  <td>Justin Benoit</td>
+                </tr>
+                <tr>
+                  <td>Jared Benoit</td>
+                </tr>
+                <tr>
+                  <td>Jillian Benoit</td>
+                </tr>
+                <tr>
+                  <td>Jenna Benoit</td>
+                </tr>
+                <tr>
+                  <td>Debbie Benoit</td>
+                </tr>
+                <tr>
+                  <td>Nicole Fabiano</td>
+                </tr>
+              </table>
+            </div>
+            <div class="col-md-3">
+              <!--
+              <table style="width: 100%">
+                <tr>
+                  <th>Team Scott Benoit</th>
+                </tr>
+                <tr>
+                  <td>Jessica Benoit</td>
+                </tr>
+                <tr>
+                  <td>Justin Benoit</td>
+                </tr>
+                <tr>
+                  <td>Jared Benoit</td>
+                </tr>
+                <tr>
+                  <td>Jillian Benoit</td>
+                </tr>
+                <tr>
+                  <td>Jenna Benoit</td>
+                </tr>
+                <tr>
+                  <td>Debbie Benoit</td>
+                </tr>
+                <tr>
+                  <td>Nicole Fabiano</td>
+                </tr>
+              </table>
+            -->
+            </div>
+            <div class="col-md-3">
+              <!--
+              <table style="width: 100%">
+                <tr>
+                  <th>Team Scott Benoit</th>
+                </tr>
+                <tr>
+                  <td>Jessica Benoit</td>
+                </tr>
+                <tr>
+                  <td>Justin Benoit</td>
+                </tr>
+                <tr>
+                  <td>Jared Benoit</td>
+                </tr>
+                <tr>
+                  <td>Jillian Benoit</td>
+                </tr>
+                <tr>
+                  <td>Jenna Benoit</td>
+                </tr>
+                <tr>
+                  <td>Debbie Benoit</td>
+                </tr>
+                <tr>
+                  <td>Nicole Fabiano</td>
+                </tr>
+              </table>
+            -->
+            </div>
+            <div class="col-md-3">
+              <!--
+              <table style="width: 100%">
+                <tr>
+                  <th>Team Scott Benoit</th>
+                </tr>
+                <tr>
+                  <td>Jessica Benoit</td>
+                </tr>
+                <tr>
+                  <td>Justin Benoit</td>
+                </tr>
+                <tr>
+                  <td>Jared Benoit</td>
+                </tr>
+                <tr>
+                  <td>Jillian Benoit</td>
+                </tr>
+                <tr>
+                  <td>Jenna Benoit</td>
+                </tr>
+                <tr>
+                  <td>Debbie Benoit</td>
+                </tr>
+                <tr>
+                  <td>Nicole Fabiano</td>
+                </tr>
+              </table>
+            </div>
+            -->
+          </div>
+
+          <!--
+          <div class="row">
+            <div class="col-md-3">
+              <table style="width: 100%">
+                <tr>
+                  <th>Team Scott Benoit</th>
+                </tr>
+                <tr>
+                  <td>Jessica Benoit</td>
+                </tr>
+                <tr>
+                  <td>Justin Benoit</td>
+                </tr>
+                <tr>
+                  <td>Jared Benoit</td>
+                </tr>
+                <tr>
+                  <td>Jillian Benoit</td>
+                </tr>
+                <tr>
+                  <td>Jenna Benoit</td>
+                </tr>
+                <tr>
+                  <td>Debbie Benoit</td>
+                </tr>
+                <tr>
+                  <td>Nicole Fabiano</td>
+                </tr>
+              </table>
+            </div>
+            <div class="col-md-3">
+              <table style="width: 100%">
+                <tr>
+                  <th>Team Scott Benoit</th>
+                </tr>
+                <tr>
+                  <td>Jessica Benoit</td>
+                </tr>
+                <tr>
+                  <td>Justin Benoit</td>
+                </tr>
+                <tr>
+                  <td>Jared Benoit</td>
+                </tr>
+                <tr>
+                  <td>Jillian Benoit</td>
+                </tr>
+                <tr>
+                  <td>Jenna Benoit</td>
+                </tr>
+                <tr>
+                  <td>Debbie Benoit</td>
+                </tr>
+                <tr>
+                  <td>Nicole Fabiano</td>
+                </tr>
+              </table>
+            </div>
+            <div class="col-md-3">
+              <table style="width: 100%">
+                <tr>
+                  <th>Team Scott Benoit</th>
+                </tr>
+                <tr>
+                  <td>Jessica Benoit</td>
+                </tr>
+                <tr>
+                  <td>Justin Benoit</td>
+                </tr>
+                <tr>
+                  <td>Jared Benoit</td>
+                </tr>
+                <tr>
+                  <td>Jillian Benoit</td>
+                </tr>
+                <tr>
+                  <td>Jenna Benoit</td>
+                </tr>
+                <tr>
+                  <td>Debbie Benoit</td>
+                </tr>
+                <tr>
+                  <td>Nicole Fabiano</td>
+                </tr>
+              </table>
+            </div>
+            <div class="col-md-3">
+              <table style="width: 100%">
+                <tr>
+                  <th>Team Scott Benoit</th>
+                </tr>
+                <tr>
+                  <td>Jessica Benoit</td>
+                </tr>
+                <tr>
+                  <td>Justin Benoit</td>
+                </tr>
+                <tr>
+                  <td>Jared Benoit</td>
+                </tr>
+                <tr>
+                  <td>Jillian Benoit</td>
+                </tr>
+                <tr>
+                  <td>Jenna Benoit</td>
+                </tr>
+                <tr>
+                  <td>Debbie Benoit</td>
+                </tr>
+                <tr>
+                  <td>Nicole Fabiano</td>
+                </tr>
+              </table>
+            </div>
+          </div>
+          -->
+
+        </div>
+      </div>
+    </div>
+
+
+    <!-- Footer -->
+    <div class="footer">
+      <div class="container">
+          <div class="row">
+            <div class="col-md-3">
+              <h6>Menu</h6>
+              <ul id="menu">
+                <li><a href="./">Home</a></li>
+                <li><a href="registration">Registration</a></li>
+                <li><a href="supporters">Supporters</a></li>
+                <li><a href="contact">Contact</a></li>
+              </ul>
+            </div>
+            <div class="col-md-3">
+              <h6>Social</h6>
+              <a href="https://www.facebook.com/events/315930732232063/?active_tab=about" target="_blank"><i class="fa fa-facebook-square fa-3x" aria-hidden="true"></i></a>
+            </div>
+            <div class="col-md-3">
+
+            </div>
+            <div class="col-md-3">
+              <p><i class="fa fa-copyright" aria-hidden="true"></i> Run For Love 2018</p>
+              <p>Website created by Justin Benoit</p>
+            </div>
+          </div>
+      </div>
+    </div>
+
+    <!-- jQuery first, then Tether, then Bootstrap JS. -->
+    <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+    <script src="js/app.js"></script>
+  </body>
+</html>

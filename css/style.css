@@ -1,0 +1,471 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family: sans-serif;
+}
+
+/* Hero */
+.hero {
+  background: url('../img/run_for_love_hero.png');
+  background-size: cover;
+  background-position: center;
+  height: 100%;
+  width: 100%;
+  position: relative;
+}
+
+.hero #hero-text {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.hero #hero-text h2 {
+  color: white;
+  margin-top: -100px;
+  font-size: 40px;
+}
+
+.hero #hero-text h1 {
+  color: white;
+  padding-bottom: 5px;
+  font-size: 60px;
+}
+
+/* Custom Navigation */
+.nav-bar {
+  background: #c0392b;
+  height: 75px;
+  width: 100%;
+  z-index: 9999999;
+}
+
+.home .nav-bar {
+  background: none;
+}
+
+.nav-bar #menu,#logo {
+  display: inline-block;
+}
+
+.nav-bar #logo {
+  padding: 12px 0 0 25px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.nav-bar #logo img {
+  width: 50px;
+  height: 50px;
+}
+
+.nav-bar p {
+  padding: 20px 0 0 83px;
+  color: white;
+  font-size: 20px;
+}
+
+.nav-bar #menu {
+  list-style: none;
+  padding: 25px 25px 0 0;
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: 99999999999999999;
+}
+
+.nav-bar #menu li {
+  display: inline-block;
+  padding-right: 20px;
+}
+
+.nav-bar #menu li a {
+  color: white;
+  text-decoration: none;
+}
+
+.nav-bar #menu li a:hover {
+  color: gray;
+}
+
+/* Icon Row */
+.home #icon-row .container {
+  padding: 80px 0 40px 0;
+}
+
+.home #icon-row .col-md-4 {
+  text-align: center;
+}
+
+.home #icon-row .col-md-4 h3 {
+  padding-top: 10px;
+}
+
+.home #icon-row .col-md-4 a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.home #icon-row .col-md-4 a:hover {
+  color: #c0392b;
+}
+
+
+/* Story */
+.home #story .container {
+  padding: 40px 0 80px 0;
+}
+
+.home #story .col-md-10 h2{
+  text-align: center;
+  padding: 0 0 30px 0;
+}
+
+
+/* Footer */
+.footer {
+  width: 100%;
+  background: #c0392b;
+  padding: 50px 0;
+}
+
+.submit .footer {
+  position: fixed;
+  bottom: 0;
+}
+
+.thankyou .footer {
+  position: fixed;
+  bottom: 0;
+}
+
+.footer .col-md-3 {
+  color: white;
+}
+
+.footer .col-md-3 > h6 {
+  text-align: left;
+}
+
+.footer .col-md-3 ul {
+  list-style: none;
+  padding: 0;
+  text-align: left;
+}
+
+.footer .col-md-3 a {
+  text-decoration: none;
+  color: white;
+}
+
+.footer .col-md-3 a:hover {
+  color: gray;
+}
+
+.footer .col-md-3 > p {
+  text-align: right;
+}
+
+
+/********** Registration Page **********/
+
+/* Header */
+.registration #header {
+  text-align: center;
+  padding: 80px 0 40px 0;
+}
+
+.registration #header h2 {
+  text-align: center;
+  padding: 0 0 30px 0;
+}
+
+.registration #header a {
+  color: black;
+  text-decoration: none;
+}
+
+.registration #header a:hover {
+  color: #c0392b;
+  text-decoration: none;
+}
+
+.registration #buyButton form {
+  padding: 30px 0 0 0;
+}
+
+.registration #buyButton form table {
+  margin: auto;
+}
+
+.registration #buyButton #buy {
+  padding: 20px 0;
+}
+
+/* Teams */
+.registration #teams {
+  text-align: center;
+  padding: 40px 0 80px 0;
+}
+
+.registration #teams h2 {
+  padding: 0 0 20px 0;
+}
+
+.registration #teams th {
+  text-align: center;
+}
+
+.registration #teams .row {
+  padding: 40px 0 0 0;
+}
+
+
+/********** Supporters Page **********/
+
+/* Header */
+.supporters #header {
+  padding: 80px 0 40px 0;
+  text-align: center;
+}
+
+.supporters #header h2{
+  padding: 0 0 30px 0;
+}
+
+.supporters #header2 {
+  padding: 40px 0 80px 0;
+  text-align: center;
+}
+
+.supporters #header2 h2{
+  padding: 0 0 30px 0;
+}
+
+.supporters #donate {
+  padding-top: 20px;
+}
+
+
+
+/********** Contact Page **********/
+
+/* Header */
+.contact #header {
+  padding: 80px 0;
+  text-align: center;
+}
+
+.contact #header h2 {
+  padding: 0 0 20px 0;
+}
+
+.contact #header #form {
+  padding: 40px 0 0 0;
+}
+
+.contact #header #name,#email,#subject,#message {
+  width: 50%;
+  border: solid black 1px;
+}
+
+/********** Submit Page **********/
+
+/* Header */
+.submit #header {
+  padding: 80px 0;
+  text-align: center;
+}
+
+.submit #header h2{
+  padding: 0 0 30px 0;
+}
+
+/********** Thank You Page **********/
+
+/* Header */
+.thankyou #header {
+  padding: 80px 0;
+  text-align: center;
+}
+
+.thankyou #header h2{
+  padding: 0 0 30px 0;
+}
+
+
+
+
+/* Customer visible class */
+#bars,#close {
+  display: none;
+}
+
+.nav-bar #menu.visible {
+  background: rgba(192, 57, 43, 1);
+  height: 100%;
+  width: 70%;
+  right: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.nav-bar #menu.visible li {
+  display: block;
+  padding: 0;
+  margin: 40px 0;
+  font-size: 25px;
+}
+
+
+
+/********** Mobile **********/
+
+@media(max-width: 767px) {
+  /* Mobile Nav */
+  #bars,#close {
+    color: white;
+    position: absolute;
+    right: 0;
+    top: 0;
+    padding: 25px 30px;
+    z-index: 99999999999;
+  }
+
+  #bars {
+    display: block;
+  }
+
+  #close {
+    display: none;
+  }
+
+  .nav-bar {
+    height: 100px;
+  }
+
+  .nav-bar p {
+    display: none;
+  }
+
+  .nav-bar #logo img {
+    width: 70px;
+    height: 70px;
+  }
+
+  .nav-bar #menu {
+    display: none;
+    padding: 0;
+  }
+
+  /* Home */
+  .hero #hero-text h2 {
+    font-size: 30px;
+  }
+
+  .hero #hero-text h1 {
+    font-size: 50px;
+  }
+
+  .home #icon-row .col-md-4 {
+    padding-bottom: 60px;
+  }
+
+  .home #story .container {
+    padding: 20px 40px 80px 40px;
+  }
+
+  .home #story .col-md-10 {
+    text-align: center;
+  }
+
+  .footer {
+    padding: 50px 0 20px 0;
+  }
+
+  .supporters .footer {
+    position: relative;
+  }
+
+  .submit .footer {
+    position: relative;
+  }
+
+  .thankyou .footer {
+    position: relative;
+  }
+
+  .footer .col-md-3 {
+    padding-bottom: 30px;
+  }
+
+  .footer .col-md-3 > h6 {
+    text-align: center;
+  }
+
+  .footer .col-md-3 ul {
+    text-align: center;
+  }
+
+  .footer .col-md-3 a {
+    text-align: center;
+    display: block;
+  }
+
+  .footer .col-md-3 > p {
+    text-align: center;
+  }
+
+  /* Registration */
+  .registration #header .container {
+    padding: 0 40px;
+  }
+
+  .registration #teams {
+    padding: 40px 40px 80px 40px;
+  }
+
+  .registration #teams .container .col-md-3 {
+    padding-bottom: 40px;
+  }
+
+  .registration #teams .row {
+    padding: 0;
+  }
+
+  .registration #teams .container {
+    padding-top: 40px;
+  }
+
+  /* Supporters */
+  .supporters #header .container {
+    padding: 0 40px;
+  }
+
+  .supporters #header2 .container {
+    padding: 0 40px;
+  }
+
+  /* Contact */
+  .contact #header .container {
+    padding: 0 40px;
+  }
+
+  .contact #header #name,#email,#subject,#message {
+    width: 75%;
+  }
+
+  /* Submit */
+  .submit #header .container {
+    padding: 0 40px;
+  }
+
+}
