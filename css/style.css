@@ -9,7 +9,7 @@ html, body {
   background: url('../img/run_for_love_hero.png');
   background-size: cover;
   background-position: center;
-  height: 100%;
+  height: 90%;
   width: 100%;
   position: relative;
 }
@@ -98,20 +98,24 @@ html, body {
   padding: 80px 0 40px 0;
 }
 
-.home #icon-row .col-md-4 {
+.registration #icon-row .container {
+  padding: 40px 0 50px 0;
+}
+
+#icon-row .col-md-4 {
   text-align: center;
 }
 
-.home #icon-row .col-md-4 h3 {
+#icon-row .col-md-4 h3 {
   padding-top: 10px;
 }
 
-.home #icon-row .col-md-4 a {
+#icon-row .col-md-4 a {
   text-decoration: none;
   color: inherit;
 }
 
-.home #icon-row .col-md-4 a:hover {
+#icon-row .col-md-4 a:hover {
   color: #c0392b;
 }
 
@@ -182,7 +186,7 @@ html, body {
 
 .registration #header h2 {
   text-align: center;
-  padding: 0 0 30px 0;
+  padding: 40px 0 30px 0;
 }
 
 .registration #header a {
@@ -301,7 +305,7 @@ html, body {
 
 
 
-/* Customer visible class */
+/* Custom visible class */
 #bars,#close {
   display: none;
 }
@@ -328,7 +332,6 @@ html, body {
 
 
 /********** Mobile **********/
-
 @media(max-width: 767px) {
   /* Mobile Nav */
   #bars,#close {
@@ -427,6 +430,14 @@ html, body {
   /* Registration */
   .registration #header .container {
     padding: 0 40px;
+  }
+
+  .registration #icon-row .container {
+    padding-top: 40px;
+  }
+
+  .registration #icon-row .col-md-4 {
+    padding-bottom: 50px;
   }
 
   .registration #teams {
