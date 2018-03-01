@@ -14,6 +14,7 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta property='og:image' content='http://www.runforlove5kma.com/img/run_for_love_meta.png'/>
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
     <!-- Font Awesome -->
@@ -85,6 +86,7 @@
               <p>10am: Race</p>
               <p>12pm: Lunch</p>
               <p>1pm: Closing Ceremony</p>
+
               <!-- Paypal Button -->
               <div id="buyButton">
                 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -92,15 +94,20 @@
                   <input type="hidden" name="hosted_button_id" value="D9WE46RLS6FZU">
                   <table>
                     <tr><td><input type="hidden" name="on0" value="Shirt Size">Shirt Size</td></tr><tr><td><select name="os0">
-	                     <option value="S">S </option>
-	                     <option value="M">M </option>
-	                     <option value="L">L </option>
-	                     <option value="XL">XL </option>
-                       <option value="XXL">XXL </option>
-                      </select> </td></tr>
+                    	<option value="Youth - S">Youth - S </option>
+                    	<option value="Youth - M">Youth - M </option>
+                    	<option value="Youth - L">Youth - L </option>
+                    	<option value="Youth - XL">Youth - XL </option>
+                    	<option value="Adult - S">Adult - S </option>
+                    	<option value="Adult - M">Adult - M </option>
+                    	<option value="Adult - L">Adult - L </option>
+                    	<option value="Adult - XL">Adult - XL </option>
+                    	<option value="Adult - 2XL">Adult - 2XL </option>
+                    	<option value="Adult - 3XL">Adult - 3XL </option>
+                    </select> </td></tr>
                     <tr><td><input type="hidden" name="on1" value="Team Name">Team Name</td></tr><tr><td><input type="text" name="os1" maxlength="200"></td></tr>
                   </table>
-                  <input id="buy" type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                  <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
                   <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
                 </form>
               </div>
@@ -395,20 +402,20 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
     <script src="js/app.js"></script>
     <script>
-    function myMap() {
-      latLng = new google.maps.LatLng(42.0626958,-71.1644764)
-      var mapOptions = {
-        center: latLng,
-        zoom: 15,
-        mapTypeId: google.maps.MapTypeId.ROADMAP
+      function myMap() {
+        latLng = new google.maps.LatLng(42.0626958,-71.1644764)
+        var mapOptions = {
+          center: latLng,
+          zoom: 15,
+          mapTypeId: google.maps.MapTypeId.ROADMAP
+        }
+        var map = new google.maps.Map(document.getElementById("map"), mapOptions);
+        var marker = new google.maps.Marker({
+          position: latLng,
+          title:"Borderland State Park"
+        });
+        marker.setMap(map);
       }
-      var map = new google.maps.Map(document.getElementById("map"), mapOptions);
-      var marker = new google.maps.Marker({
-        position: latLng,
-        title:"Borderland State Park"
-      });
-      marker.setMap(map);
-    }
     </script>
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDgaLiLcLzqifvfLlBCRN9zNfqCupWC9Ek&callback=myMap"></script>
   </body>

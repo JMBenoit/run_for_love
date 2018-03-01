@@ -14,6 +14,7 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta property='og:image' content='http://www.runforlove5kma.com/img/run_for_love_meta.png'/>
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
     <!-- Font Awesome -->
@@ -70,7 +71,7 @@
     </div>
 
     <!-- Body 2 -->
-    <div id="header2">
+    <div id="donations">
       <div class="container">
         <div class="row">
           <div class="col-md-1">
@@ -78,25 +79,149 @@
           </div>
           <div class="col-md-10">
             <h2>Who Made This Possible?</h2>
-            <div id="text">
-                <p>Coming Soon</p>
 
-                <!--
-                <div id="sponsors">
-                  <div class="container">
-                    <div class="row">
-                      <div class="col-md-6">
-                        logo
-                      </div>
-                      <div class="col-md-6">
-                        description
-                      </div>
-                    </div>
+
+            <div id="sponsors">
+              <div class="container">
+                <div class="row">
+                  <div class="col-md-6">
+                    <a href="http://www.hartsturkeyfarm.com/" target="_blank"><img src="img/supporters/HartsTurkeyFarm.png" alt="Hart's Turkey Farm Logo"></a>
+                  </div>
+                  <div class="col-md-6">
+                    <p><strong><br/>Hart's Turkey Farm</strong></p>
+                    <p><a href="http://www.hartsturkeyfarm.com/" target="_blank">hartsturkeyfarm.com</a></p>
                   </div>
                 </div>
-                -->
-
               </div>
+            </div>
+
+            <div id="sponsors">
+              <div class="container">
+                <div class="row">
+                  <div class="col-md-6">
+                    <a href="http://www.piratescove.net/" target="_blank"><img src="img/supporters/PiratesCove.png" alt="Pirate's Cove Logo"></a>
+                  </div>
+                  <div class="col-md-6">
+                    <p><strong><br/>Pirate's Cove</strong></p>
+                    <p><a href="http://www.piratescove.net/" target="_blank">piratescove.net</a></p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div id="sponsors">
+              <div class="container">
+                <div class="row">
+                  <div class="col-md-6">
+                    <a href="http://blackwatermustardco.com/" target="_blank"><img src="img/supporters/BlackwaterMustardCo.png" alt="Blackwater Mustard Co Logo"></a>
+                  </div>
+                  <div class="col-md-6">
+                    <p><strong><br/>Blackwater Mustard Co</strong></p>
+                    <p><a href="http://blackwatermustardco.com/" target="_blank">blackwatermustardco.com</a></p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div id="sponsors">
+              <div class="container">
+                <div class="row">
+                  <div class="col-md-6">
+                    <a href="http://debbiemacomber.com/" target="_blank"><img src="img/supporters/DebbieMacomber.png" alt="Debbie Macomber Picture"></a>
+                  </div>
+                  <div class="col-md-6">
+                    <p><strong><br/>Debbie Macomber</strong></p>
+                    <p><a href="http://debbiemacomber.com/" target="_blank">debbiemacomber.com</a></p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div id="sponsors">
+              <div class="container">
+                <div class="row">
+                  <div class="col-md-6">
+                    <a href="http://www.lazerkraze.com/" target="_blank"><img src="img/supporters/LazerKraze.png" alt="Lazer Kraze Logo"></a>
+                  </div>
+                  <div class="col-md-6">
+                    <p><strong><br/>Lazer Kraze</strong></p>
+                    <p><a href="http://www.lazerkraze.com/" target="_blank">lazerkraze.com</a></p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div id="sponsors">
+              <div class="container">
+                <div class="row">
+                  <div class="col-md-6">
+                    <a href="http://www.jackolanternresort.com/" target="_blank"><img src="img/supporters/JackOlanternResort.png" alt="Jack O'Lantern Resort Picture"></a>
+                  </div>
+                  <div class="col-md-6">
+                    <p><strong><br/>Jack O'Lantern Resort & Golf Course</strong></p>
+                    <p><a href="http://www.jackolanternresort.com/" target="_blank">jackolanternresort.com</a></p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div id="sponsors">
+              <div class="container">
+                <div class="row">
+                  <div class="col-md-6">
+                    <a href="http://www.ihg.com/holidayinn/hotels/us/en/concord/ccddt/hoteldetail?cm_mmc=GoogleMaps-_-HI-_-US-_-CCDDT" target="_blank"><img src="img/supporters/HolidayInn.png" alt="Holiday Inn Logo"></a>
+                  </div>
+                  <div class="col-md-6">
+                    <p><strong><br/>Holiday Inn Concord</strong></p>
+                    <p><a href="http://www.ihg.com/holidayinn/hotels/us/en/concord/ccddt/hoteldetail?cm_mmc=GoogleMaps-_-HI-_-US-_-CCDDT" target="_blank">ihg.com/holidayinn/hotels/us/en/concord</a></p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div id="sponsors">
+              <div class="container">
+                <div class="row">
+                  <div class="col-md-6">
+                    <a href="http://mainediner.com/" target="_blank"><img src="img/supporters/MaineDiner.png" alt="Maine Diner Picture"></a>
+                  </div>
+                  <div class="col-md-6">
+                    <p><strong><br/>Maine Diner</strong></p>
+                    <p><a href="http://mainediner.com/" target="_blank">mainediner.com</a></p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div id="sponsors">
+              <div class="container">
+                <div class="row">
+                  <div class="col-md-6">
+                    <a href="http://flaghill.com/" target="_blank"><img src="img/supporters/FlagHill.png" alt="Flaghill Logo"></a>
+                  </div>
+                  <div class="col-md-6">
+                    <p><strong><br/>Flaghill Distillery & Winery</strong></p>
+                    <p><a href="http://flaghill.com/" target="_blank">flaghill.com</a></p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div id="sponsors">
+              <div class="container">
+                <div class="row">
+                  <div class="col-md-6">
+                    <a href="https://www.indianmuseum.org/" target="_blank"><img src="img/supporters/MtKearsarge.png" alt="Mt Kearsarge Logo"></a>
+                  </div>
+                  <div class="col-md-6">
+                    <p><strong><br/>Mt. Kearsarge Indian Museum</strong></p>
+                    <p><a href="https://www.indianmuseum.org/" target="_blank">www.indianmuseum.org</a></p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+
           </div>
           <div class="col-md-1">
 

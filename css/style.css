@@ -242,19 +242,40 @@ html, body {
   padding: 0 0 30px 0;
 }
 
-.supporters #header2 {
+.supporters #donations {
   padding: 40px 0 80px 0;
   text-align: center;
 }
 
-.supporters #header2 h2{
-  padding: 0 0 30px 0;
+.supporters #donations h2{
+  padding: 0 0 20px 0;
 }
 
 .supporters #donate {
   padding-top: 20px;
 }
 
+.supporters #donations .container .col-md-10 .container {
+  padding: 20px 0;
+}
+
+.supporters .col-md-6 img {
+  width: 200px;
+}
+
+.supporters .col-md-6 p {
+  text-align: center;
+  font-size: 19px;
+}
+
+.supporters #donations a {
+  text-decoration: none;
+  color: black;
+}
+
+.supporters #donations a:hover {
+  color: #c0392b;
+}
 
 
 /********** Contact Page **********/
