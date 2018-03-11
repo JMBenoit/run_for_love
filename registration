@@ -91,21 +91,21 @@
               <div id="buyButton">
                 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
                   <input type="hidden" name="cmd" value="_s-xclick">
-                  <input type="hidden" name="hosted_button_id" value="D9WE46RLS6FZU">
+                  <input type="hidden" name="hosted_button_id" value="ZMH4F7SNFPSTU">
                   <table>
-                    <tr><td><input type="hidden" name="on0" value="Shirt Size">Shirt Size</td></tr><tr><td><select name="os0">
-                    	<option value="Youth - S">Youth - S </option>
-                    	<option value="Youth - M">Youth - M </option>
-                    	<option value="Youth - L">Youth - L </option>
-                    	<option value="Youth - XL">Youth - XL </option>
-                    	<option value="Adult - S">Adult - S </option>
-                    	<option value="Adult - M">Adult - M </option>
-                    	<option value="Adult - L">Adult - L </option>
-                    	<option value="Adult - XL">Adult - XL </option>
-                    	<option value="Adult - 2XL">Adult - 2XL </option>
-                    	<option value="Adult - 3XL">Adult - 3XL </option>
-                    </select> </td></tr>
-                    <tr><td><input type="hidden" name="on1" value="Team Name">Team Name</td></tr><tr><td><input type="text" name="os1" maxlength="200"></td></tr>
+                  <tr><td><input type="hidden" name="on0" value="Shirt Size">Shirt Size</td></tr><tr><td><select name="os0">
+                  	<option value="Youth - S">Youth - S </option>
+                  	<option value="Youth - M">Youth - M </option>
+                  	<option value="Youth - L">Youth - L </option>
+                  	<option value="Youth - XL">Youth - XL </option>
+                  	<option value="Adult - S">Adult - S </option>
+                  	<option value="Adult - M">Adult - M </option>
+                  	<option value="Adult - L">Adult - L </option>
+                  	<option value="Adult - XL">Adult - XL </option>
+                  	<option value="Adult - 2XL">Adult - 2XL </option>
+                  	<option value="Adult - 3XL">Adult - 3XL </option>
+                  </select> </td></tr>
+                  <tr><td><input type="hidden" name="on1" value="Team Name">Team Name</td></tr><tr><td><input type="text" name="os1" maxlength="200"></td></tr>
                   </table>
                   <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
                   <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
@@ -155,64 +155,33 @@
               </table>
             </div>
             <div class="col-md-3">
-              <!--
               <table style="width: 100%">
                 <tr>
-                  <th>Team Scott Benoit</th>
+                  <th>Team DeSanty</th>
                 </tr>
                 <tr>
-                  <td>Jessica Benoit</td>
+                  <td>Taylor DeSanty</td>
                 </tr>
                 <tr>
-                  <td>Justin Benoit</td>
+                  <td>Jessica Shenkel</td>
                 </tr>
                 <tr>
-                  <td>Jared Benoit</td>
+                  <td>Taryn DeSanty</td>
                 </tr>
                 <tr>
-                  <td>Jillian Benoit</td>
-                </tr>
-                <tr>
-                  <td>Jenna Benoit</td>
-                </tr>
-                <tr>
-                  <td>Debbie Benoit</td>
-                </tr>
-                <tr>
-                  <td>Nicole Fabiano</td>
+                  <td>Keiland Cross</td>
                 </tr>
               </table>
-            -->
             </div>
             <div class="col-md-3">
-              <!--
               <table style="width: 100%">
                 <tr>
-                  <th>Team Scott Benoit</th>
+                  <th>Single Runners</th>
                 </tr>
                 <tr>
-                  <td>Jessica Benoit</td>
-                </tr>
-                <tr>
-                  <td>Justin Benoit</td>
-                </tr>
-                <tr>
-                  <td>Jared Benoit</td>
-                </tr>
-                <tr>
-                  <td>Jillian Benoit</td>
-                </tr>
-                <tr>
-                  <td>Jenna Benoit</td>
-                </tr>
-                <tr>
-                  <td>Debbie Benoit</td>
-                </tr>
-                <tr>
-                  <td>Nicole Fabiano</td>
+                  <td>Christine Vacca</td>
                 </tr>
               </table>
-            -->
             </div>
             <div class="col-md-3">
               <!--
