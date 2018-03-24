@@ -153,6 +153,9 @@
                 <tr>
                   <td>Nicole Fabiano</td>
                 </tr>
+                <tr>
+                  <td>Sandy Mello</td>
+                </tr>
               </table>
             </div>
             <div class="col-md-3">
@@ -185,6 +188,49 @@
                 <tr>
                   <td>Sheila Fisher</td>
                 </tr>
+                <tr>
+                  <td>Kim Menard</td>
+                </tr>
+                <tr>
+                  <td>Laura Putnam</td>
+                </tr>
+              </table>
+            </div>
+            <div class="col-md-3">
+              <table style="width: 100%">
+                <tr>
+                  <th>Team We Love Jess!</th>
+                </tr>
+                <tr>
+                  <td>Chelsea Derochea</td>
+                </tr>
+              </table>
+            </div>
+          </div>
+
+          <!-- Row 2 -->
+          <div class="row">
+            <div class="col-md-3">
+              <table style="width: 100%">
+                <tr>
+                  <th>Team JML</th>
+                </tr>
+                <tr>
+                  <td>Deanna Lombardi</td>
+                </tr>
+                <tr>
+                  <td>Cory Ahonen</td>
+                </tr>
+              </table>
+            </div>
+            <div class="col-md-3">
+              <table style="width: 100%">
+                <tr>
+                  <th>Team Cardoso</th>
+                </tr>
+                <tr>
+                  <td>Serena Cardoso</td>
+                </tr>
               </table>
             </div>
             <div class="col-md-3">
@@ -200,12 +246,8 @@
                 </tr>
               </table>
             </div>
-          </div>
-
-          <!-- Row 2 -->
-          <!--
-          <div class="row">
             <div class="col-md-3">
+              <!--
               <table style="width: 100%">
                 <tr>
                   <th>Team Scott Benoit</th>
@@ -232,93 +274,9 @@
                   <td>Nicole Fabiano</td>
                 </tr>
               </table>
-            </div>
-            <div class="col-md-3">
-              <table style="width: 100%">
-                <tr>
-                  <th>Team Scott Benoit</th>
-                </tr>
-                <tr>
-                  <td>Jessica Benoit</td>
-                </tr>
-                <tr>
-                  <td>Justin Benoit</td>
-                </tr>
-                <tr>
-                  <td>Jared Benoit</td>
-                </tr>
-                <tr>
-                  <td>Jillian Benoit</td>
-                </tr>
-                <tr>
-                  <td>Jenna Benoit</td>
-                </tr>
-                <tr>
-                  <td>Debbie Benoit</td>
-                </tr>
-                <tr>
-                  <td>Nicole Fabiano</td>
-                </tr>
-              </table>
-            </div>
-            <div class="col-md-3">
-              <table style="width: 100%">
-                <tr>
-                  <th>Team Scott Benoit</th>
-                </tr>
-                <tr>
-                  <td>Jessica Benoit</td>
-                </tr>
-                <tr>
-                  <td>Justin Benoit</td>
-                </tr>
-                <tr>
-                  <td>Jared Benoit</td>
-                </tr>
-                <tr>
-                  <td>Jillian Benoit</td>
-                </tr>
-                <tr>
-                  <td>Jenna Benoit</td>
-                </tr>
-                <tr>
-                  <td>Debbie Benoit</td>
-                </tr>
-                <tr>
-                  <td>Nicole Fabiano</td>
-                </tr>
-              </table>
-            </div>
-            <div class="col-md-3">
-              <table style="width: 100%">
-                <tr>
-                  <th>Team Scott Benoit</th>
-                </tr>
-                <tr>
-                  <td>Jessica Benoit</td>
-                </tr>
-                <tr>
-                  <td>Justin Benoit</td>
-                </tr>
-                <tr>
-                  <td>Jared Benoit</td>
-                </tr>
-                <tr>
-                  <td>Jillian Benoit</td>
-                </tr>
-                <tr>
-                  <td>Jenna Benoit</td>
-                </tr>
-                <tr>
-                  <td>Debbie Benoit</td>
-                </tr>
-                <tr>
-                  <td>Nicole Fabiano</td>
-                </tr>
-              </table>
+            -->
             </div>
           </div>
-          -->
 
         </div>
       </div>
