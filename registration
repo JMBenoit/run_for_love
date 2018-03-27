@@ -105,9 +105,10 @@
                   	<option value="Adult - 2XL">Adult - 2XL </option>
                   	<option value="Adult - 3XL">Adult - 3XL </option>
                   </select> </td></tr>
-                  <tr><td><input type="hidden" name="on1" value="Team Name">Team Name</td></tr><tr><td><input type="text" name="os1" maxlength="200"></td></tr>
+                  <tr><td><input type="hidden" name="on1" value="Your Name">Your Name</td></tr><tr><td><input type="text" name="os1" maxlength="200"></td></tr>
+                  <tr><td><input type="hidden" name="on2" value="Team Name">Team Name</td></tr><tr><td><input type="text" name="os2" maxlength="200"></td></tr>
                   </table>
-                  <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                  <input id="buy" type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
                   <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
                 </form>
               </div>
@@ -226,10 +227,13 @@
             <div class="col-md-3">
               <table style="width: 100%">
                 <tr>
-                  <th>Team Cardoso</th>
+                  <th>Criolas Unidas</th>
                 </tr>
                 <tr>
                   <td>Serena Cardoso</td>
+                </tr>
+                <tr>
+                  <td>Tina Cardoso</td>
                 </tr>
               </table>
             </div>

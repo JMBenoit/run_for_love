@@ -221,6 +221,20 @@
               </div>
             </div>
 
+            <div id="sponsors">
+              <div class="container">
+                <div class="row">
+                  <div class="col-md-6">
+                    <a href="http://lakesregiongolf.com/whitemountain/" target="_blank"><img src="img/supporters/WhiteMoutain.png" alt="White Mountain Country Club Logo"></a>
+                  </div>
+                  <div class="col-md-6">
+                    <p><strong><br/>White Mountain Country Club</strong></p>
+                    <p><a href="http://lakesregiongolf.com/whitemountain/" target="_blank">lakesregiongolf.com/whitemountain</a></p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
 
           </div>
           <div class="col-md-1">
