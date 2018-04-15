@@ -235,6 +235,20 @@
               </div>
             </div>
 
+            <div id="sponsors">
+              <div class="container">
+                <div class="row">
+                  <div class="col-md-6">
+                    <a href="http://www.polarcaves.com/" target="_blank"><img src="img/supporters/PolarCaves.png" alt="Polar Caves Park Logo"></a>
+                  </div>
+                  <div class="col-md-6">
+                    <p><strong><br/>Polar Caves Park</strong></p>
+                    <p><a href="http://www.polarcaves.com/" target="_blank">polarcaves.com</a></p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
 
           </div>
           <div class="col-md-1">
