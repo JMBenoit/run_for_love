@@ -249,6 +249,62 @@
               </div>
             </div>
 
+            <div id="sponsors">
+              <div class="container">
+                <div class="row">
+                  <div class="col-md-6">
+                    <a href="http://www.storylandnh.com/" target="_blank"><img src="img/supporters/StoryLand.png" alt="Story Land Logo"></a>
+                  </div>
+                  <div class="col-md-6">
+                    <p><strong><br/>Story Land</strong></p>
+                    <p><a href="http://www.storylandnh.com/" target="_blank">storylandnh.com</a></p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div id="sponsors">
+              <div class="container">
+                <div class="row">
+                  <div class="col-md-6">
+                    <a href="http://www.ecfgym.com/" target="_blank"><img src="img/supporters/EastCoastFitness.png" alt="East Coast Fitness Logo"></a>
+                  </div>
+                  <div class="col-md-6">
+                    <p><strong><br/>East Coast Fitness</strong></p>
+                    <p><a href="http://www.ecfgym.com/" target="_blank">ecfgym.com</a></p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div id="sponsors">
+              <div class="container">
+                <div class="row">
+                  <div class="col-md-6">
+                    <a href="http://www.redsealma.com/" target="_blank"><img src="img/supporters/RedSeal.png" alt="Red Seal Martial Arts Logo"></a>
+                  </div>
+                  <div class="col-md-6">
+                    <p><strong><br/>Red Seal Martial Arts</strong></p>
+                    <p><a href="http://www.redsealma.com/" target="_blank">redsealma.com</a></p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div id="sponsors">
+              <div class="container">
+                <div class="row">
+                  <div class="col-md-6">
+                    <a href="http://www.kreamnkone.com/" target="_blank"><img src="img/supporters/KreamNKone.png" alt="Kream N Kone Logo"></a>
+                  </div>
+                  <div class="col-md-6">
+                    <p><strong><br/>Kream N Kone</strong></p>
+                    <p><a href="http://www.kreamnkone.com/" target="_blank">kreamnkone.com</a></p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
 
           </div>
           <div class="col-md-1">
