@@ -169,6 +169,12 @@
                 <tr>
                   <td>Illyana Caetano</td>
                 </tr>
+                <tr>
+                  <td>Sara Caetano</td>
+                </tr>
+                <tr>
+                  <td>Jamie Osta</td>
+                </tr>
               </table>
             </div>
             <div class="col-md-3">
@@ -187,6 +193,9 @@
                 </tr>
                 <tr>
                   <td>Keiland Cross</td>
+                </tr>
+                <tr>
+                  <td>Mariel Meserve</td>
                 </tr>
               </table>
             </div>
@@ -207,6 +216,9 @@
                 <tr>
                   <td>Laura Putnam</td>
                 </tr>
+                <tr>
+                  <td>Susan Camara</td>
+                </tr>
               </table>
             </div>
             <div class="col-md-3">
@@ -216,6 +228,9 @@
                 </tr>
                 <tr>
                   <td>Chelsea Derochea</td>
+                </tr>
+                <tr>
+                  <td>Olivia Trieber</td>
                 </tr>
               </table>
             </div>
@@ -252,6 +267,39 @@
             <div class="col-md-3">
               <table style="width: 100%">
                 <tr>
+                  <th>Team R.E.D</th>
+                </tr>
+                <tr>
+                  <td>Stephanie Annichiarico</td>
+                </tr>
+                <tr>
+                  <td>Jimmy Dolan</td>
+                </tr>
+                <tr>
+                  <td>Cathy Dolan</td>
+                </tr>
+              </table>
+            </div>
+            <div class="col-md-3">
+              <table style="width: 100%">
+                <tr>
+                  <th>Team Irish</th>
+                </tr>
+                <tr>
+                  <td>Susan Hebb</td>
+                </tr>
+                <tr>
+                  <td>Noreen Kirby</td>
+                </tr>
+              </table>
+            </div>
+          </div>
+
+          <!-- Row 3 -->
+          <div class="row">
+            <div class="col-md-3">
+              <table style="width: 100%">
+                <tr>
                   <th>Single Runners</th>
                 </tr>
                 <tr>
@@ -266,31 +314,49 @@
               <!--
               <table style="width: 100%">
                 <tr>
-                  <th>Team Scott Benoit</th>
+                  <th>Criolas Unidas</th>
                 </tr>
                 <tr>
-                  <td>Jessica Benoit</td>
+                  <td>Serena Cardoso</td>
                 </tr>
                 <tr>
-                  <td>Justin Benoit</td>
-                </tr>
-                <tr>
-                  <td>Jared Benoit</td>
-                </tr>
-                <tr>
-                  <td>Jillian Benoit</td>
-                </tr>
-                <tr>
-                  <td>Jenna Benoit</td>
-                </tr>
-                <tr>
-                  <td>Debbie Benoit</td>
-                </tr>
-                <tr>
-                  <td>Nicole Fabiano</td>
+                  <td>Tina Cardoso</td>
                 </tr>
               </table>
-            -->
+              -->
+            </div>
+            <div class="col-md-3">
+              <!--
+              <table style="width: 100%">
+                <tr>
+                  <th>Team R.E.D</th>
+                </tr>
+                <tr>
+                  <td>Stephanie Annichiarico</td>
+                </tr>
+                <tr>
+                  <td>Jimmy Dolan</td>
+                </tr>
+                <tr>
+                  <td>Cathy Dolan</td>
+                </tr>
+              </table>
+              -->
+            </div>
+            <div class="col-md-3">
+              <!--
+              <table style="width: 100%">
+                <tr>
+                  <th>Single Runners</th>
+                </tr>
+                <tr>
+                  <td>Christine Vacca</td>
+                </tr>
+                <tr>
+                  <td>Amanda McKenney</td>
+                </tr>
+              </table>
+              -->
             </div>
           </div>
 
