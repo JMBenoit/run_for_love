@@ -308,6 +308,59 @@
             <div id="sponsors">
               <div class="container">
                 <div class="row">
+                  <div class="col-md-6">
+                    <a href="http://www.ecotarium.org/" target="_blank"><img src="img/supporters/Ecotarium.png" alt="Ecotarium Logo"></a>
+                  </div>
+                  <div class="col-md-6">
+                    <p><strong><br/>Ecotarium</strong></p>
+                    <p><a href="http://www.ecotarium.org/" target="_blank">ecotarium.org</a></p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div id="sponsors">
+              <div class="container">
+                <div class="row">
+                  <div class="col-md-6">
+                    <a href="http://www.nhnature.org/" target="_blank"><img src="img/supporters/SquamLakes.png" alt="Squam Lakes Logo"></a>
+                  </div>
+                  <div class="col-md-6">
+                    <p><strong><br/>Squam Lakes Natural Science Center</strong></p>
+                    <p><a href="http://www.nhnature.org/" target="_blank">nhnature.com</a></p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div id="sponsors">
+              <div class="container">
+                <div class="row">
+                  <div class="col-md-6">
+                    <a href="http://www.clarkstradingpost.com/" target="_blank"><img src="img/supporters/Clarks.png" alt="Clark's Trading Post Logo"></a>
+                  </div>
+                  <div class="col-md-6">
+                    <p><strong><br/>Clark's Trading Post</strong></p>
+                    <p><a href="http://www.clarkstradingpost.com/" target="_blank">clarkstradingppost.com</a></p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div id="sponsors">
+              <div class="container">
+                <div class="row">
+                  <div class="col-md-12">
+                    <p><strong><br/>The Ashe Family</strong></p>
+                    <p>Cash Donation</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div id="sponsors">
+              <div class="container">
+                <div class="row">
                   <div class="col-md-12">
                     <p><strong><br/>Cristina Mangini</strong></p>
                     <p>Ice Cream Basket</p>
