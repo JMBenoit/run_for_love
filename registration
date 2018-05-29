@@ -51,9 +51,9 @@
             <h2>Registration</h2>
             <div id="text">
               <p>Thank you for your interest in registering for the Run For Love 5K. This event is something very dear to our hearts, and so we appreciate all of your support.</p>
-              <p>Tickets to participate in the 5K walk/run are <strong>$25 per ticket</strong>, which can be purchased below through PayPal. All tickets come with <strong>1 raffle ticket and a t-shirt</strong>, which you will receive on the day of the event. Be sure to select your shirt size and include the name of the team you would like to join or create.</p>
+              <p>Tickets to participate in the 5K walk/run are <strong>$25 per ticket</strong>, which can be purchased below through PayPal. All tickets come with <strong>1 raffle ticket</strong>, which you will receive on the day of the event. Be sure to include the name of the team you would like to join or create.</p>
               <p>Purchase of a ticket is not necessary to attend the event and support the cause. There will be speakers, music, food, family-fun activities, prizes, and raffles to help raise more money. See schedule of events for more details.</p>
-              <p>The last day to purchase tickets online will be May 26, 2018. Tickets for the walk/run, raffle tickets, and t-shirts will all be available for purchase at the event. If buying the 5K ticket at the event, there is no guarantee that your shirt size will be available. <br/> ** More information about the raffle tickets will be available soon. **</p>
+              <p>Early registration has now ended. Tickets are still availble for purchase below or at the event, but t-shirts are no longer included since the order has already been placed. We will have some extra t-shirts at the event, which will be first-come-first-serve. <br/> ** More information about the raffle tickets will be available soon. **</p>
               <p>The event will be held rain or shine. No refunds.</p>
               <p>Dogs are welcome!</p>
 
@@ -93,22 +93,10 @@
                   <input type="hidden" name="cmd" value="_s-xclick">
                   <input type="hidden" name="hosted_button_id" value="D9WE46RLS6FZU">
                   <table>
-                  <tr><td><input type="hidden" name="on0" value="Shirt Size">Shirt Size</td></tr><tr><td><select name="os0">
-                  	<option value="Youth - S">Youth - S </option>
-                  	<option value="Youth - M">Youth - M </option>
-                  	<option value="Youth - L">Youth - L </option>
-                  	<option value="Youth - XL">Youth - XL </option>
-                  	<option value="Adult - S">Adult - S </option>
-                  	<option value="Adult - M">Adult - M </option>
-                  	<option value="Adult - L">Adult - L </option>
-                  	<option value="Adult - XL">Adult - XL </option>
-                  	<option value="Adult - 2XL">Adult - 2XL </option>
-                  	<option value="Adult - 3XL">Adult - 3XL </option>
-                  </select> </td></tr>
-                  <tr><td><input type="hidden" name="on1" value="Your Name">Your Name</td></tr><tr><td><input type="text" name="os1" maxlength="200"></td></tr>
-                  <tr><td><input type="hidden" name="on2" value="Team Name">Team Name</td></tr><tr><td><input type="text" name="os2" maxlength="200"></td></tr>
+                  <tr><td><input type="hidden" name="on0" value="Your Name">Your Name</td></tr><tr><td><input type="text" name="os0" maxlength="200"></td></tr>
+                  <tr><td><input type="hidden" name="on1" value="Team Name">Team Name</td></tr><tr><td><input type="text" name="os1" maxlength="200"></td></tr>
                   </table>
-                  <input id="buy" type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                  <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
                   <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
                 </form>
               </div>
@@ -181,6 +169,9 @@
                 <tr>
                   <td>Marjie Ashley</td>
                 </tr>
+                <tr>
+                  <td>Warren Rosenfield</td>
+                </tr>
               </table>
             </div>
             <div class="col-md-3">
@@ -237,6 +228,12 @@
                 </tr>
                 <tr>
                   <td>Olivia Trieber</td>
+                </tr>
+                <tr>
+                  <td>Patrick Derochea</td>
+                </tr>
+                <tr>
+                  <td>Emily Miller</td>
                 </tr>
               </table>
             </div>
@@ -339,6 +336,55 @@
                 <tr>
                   <td>Jenna Nutting</td>
                 </tr>
+                <tr>
+                  <td>Dave Nutting</td>
+                </tr>
+              </table>
+            </div>
+            <div class="col-md-3">
+              <table style="width: 100%">
+                <tr>
+                  <th>Team Jessica Benoit</th>
+                </tr>
+                <tr>
+                  <td>Diane Dewhurst</td>
+                </tr>
+                <tr>
+                  <td>Milton Dewhurst</td>
+                </tr>
+              </table>
+            </div>
+            <div class="col-md-3">
+              <table style="width: 100%">
+                <tr>
+                  <th>Free Love</th>
+                </tr>
+                <tr>
+                  <td>Lori Laffan</td>
+                </tr>
+                <tr>
+                  <td>Barbara Salley</td>
+                </tr>
+                <tr>
+                  <td>Sheri Bankert</td>
+                </tr>
+                <tr>
+                  <td>Keith Bankert</td>
+                </tr>
+              </table>
+            </div>
+          </div>
+
+          <!-- Row 4 -->
+          <div class="row">
+            <div class="col-md-3">
+              <table style="width: 100%">
+                <tr>
+                  <th>Team Highpoint</th>
+                </tr>
+                <tr>
+                  <td>Gina Millett</td>
+                </tr>
               </table>
             </div>
             <div class="col-md-3">
@@ -355,7 +401,28 @@
                 <tr>
                   <td>Kyle Vacca</td>
                 </tr>
+                <tr>
+                  <td>Julie Crosby</td>
+                </tr>
+                <tr>
+                  <td>Adam Sicklick</td>
+                </tr>
               </table>
+            </div>
+            <div class="col-md-3">
+              <!--
+              <table style="width: 100%">
+                <tr>
+                  <th>Team Jessica Benoit</th>
+                </tr>
+                <tr>
+                  <td>Diane Dewhurst</td>
+                </tr>
+                <tr>
+                  <td>Milton Dewhurst</td>
+                </tr>
+              </table>
+            -->
             </div>
             <div class="col-md-3">
               <!--
@@ -369,8 +436,11 @@
                 <tr>
                   <td>Amanda McKenney</td>
                 </tr>
+                <tr>
+                  <td>Kyle Vacca</td>
+                </tr>
               </table>
-              -->
+            -->
             </div>
           </div>
 
