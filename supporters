@@ -62,6 +62,7 @@
                 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
               </form>
             </div>
+
           </div>
           <div class="col-md-1">
 
@@ -350,6 +351,76 @@
             <div id="sponsors">
               <div class="container">
                 <div class="row">
+                  <div class="col-md-6">
+                    <a href="http://www.daves-diner.com/" target="_blank"><img src="img/supporters/DavesDiner.png" alt="Daves Diner Logo"></a>
+                  </div>
+                  <div class="col-md-6">
+                    <p><strong><br/>Dave's Diner</strong></p>
+                    <p><a href="http://www.daves-diner.com/" target="_blank">daves-diner.com</a></p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div id="sponsors">
+              <div class="container">
+                <div class="row">
+                  <div class="col-md-6">
+                    <a href="http://www.baldiescraftpizzeria.com/" target="_blank"><img src="img/supporters/Baldies.png" alt="Baldies Pizza Logo"></a>
+                  </div>
+                  <div class="col-md-6">
+                    <p><strong><br/>Baldie's Craft Pizzeria</strong></p>
+                    <p><a href="http://www.baldiescraftpizzeria.com/" target="_blank">baldiescraftpizzeria.com</a></p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div id="sponsors">
+              <div class="container">
+                <div class="row">
+                  <div class="col-md-6">
+                    <a href="http://www.dairyqueen.com/" target="_blank"><img src="img/supporters/DQ.png" alt="Dairy Queen Logo"></a>
+                  </div>
+                  <div class="col-md-6">
+                    <p><strong><br/>Dairy Queen</strong></p>
+                    <p><a href="http://www.dairyqueen.com/" target="_blank">dairyqueen.com</a></p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div id="sponsors">
+              <div class="container">
+                <div class="row">
+                  <div class="col-md-6">
+                    <a href="http://www.staples.com/" target="_blank"><img src="img/supporters/Staples.png" alt="Staples Logo"></a>
+                  </div>
+                  <div class="col-md-6">
+                    <p><strong><br/>Staples</strong></p>
+                    <p><a href="http://www.staples.com/" target="_blank">staples.com</a></p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div id="sponsors">
+              <div class="container">
+                <div class="row">
+                  <div class="col-md-6">
+                    <a href="http://www.dunkindonuts.com/" target="_blank"><img src="img/supporters/Dunkin.png" alt="Dunkin Donuts Logo"></a>
+                  </div>
+                  <div class="col-md-6">
+                    <p><strong><br/>Dunkin' Donuts</strong></p>
+                    <p><a href="http://www.dunkindonuts.com/" target="_blank">dunkindonuts.com</a></p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div id="sponsors">
+              <div class="container">
+                <div class="row">
                   <div class="col-md-12">
                     <p><strong><br/>The Ashe Family</strong></p>
                     <p>Cash Donation</p>
@@ -374,6 +445,28 @@
                 <div class="row">
                   <div class="col-md-12">
                     <p><strong><br/>Jaqueline Yen</strong></p>
+                    <p>Cash Donation</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div id="sponsors">
+              <div class="container">
+                <div class="row">
+                  <div class="col-md-12">
+                    <p><strong><br/>Pat Grelling</strong></p>
+                    <p>Cash Donation</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div id="sponsors">
+              <div class="container">
+                <div class="row">
+                  <div class="col-md-12">
+                    <p><strong><br/>Patrick Ronan</strong></p>
                     <p>Cash Donation</p>
                   </div>
                 </div>
